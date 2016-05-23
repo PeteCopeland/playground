@@ -1,7 +1,10 @@
 {
   "lasso": {
     "plugins": [
+      "lasso-less",
       "lasso-marko"
-    ]
+    ],
+    "resolveCssUrls": true,
+    "bundlingEnabled": true
   }
 }
