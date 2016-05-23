@@ -4,6 +4,7 @@
   "description": "Playing around with Node and ES6",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "author": "Pete Copeland <pecopeland@ebay.com>",
