@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "Playing around with Node and ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Pete Copeland <pecopeland@ebay.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
