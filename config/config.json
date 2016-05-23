@@ -1,0 +1,7 @@
+{
+  "lasso": {
+    "plugins": [
+      "lasso-marko"
+    ]
+  }
+}
