@@ -12,4 +12,7 @@ app.get('/', require('./src/pages/index'));
 
 app.listen(app.get('port'), function() {
   console.log('App started on ', app.get('port'));
+  if (process.send) {
+    process.send('online');
+  }
 });
