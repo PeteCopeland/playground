@@ -1,5 +1,6 @@
 {
   "dependencies": [
-    "style.less"
+    "style.less",
+    "../../layouts/basic-layout"
   ]
 }
