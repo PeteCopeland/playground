@@ -2,3 +2,4 @@
 /static
 *.marko.js
 npm-debug.log
+.cache
